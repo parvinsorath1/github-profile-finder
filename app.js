@@ -75,7 +75,7 @@ function decorateProfileData(details) {
             <p>Following</p>
           </div>
          
-        </div>
+        </div> 
 
         <!-- Additional Info -->
         <div class="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-y-2 gap-x-6 text-gray-700 text-sm">
